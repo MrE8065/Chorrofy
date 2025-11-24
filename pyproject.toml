@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Simple mobile app to listen to music"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "flet>=0.28.3",
+    "flet-desktop>=0.28.3",
+    "yt-dlp>=2025.11.12",
+    "ytmusicapi>=1.11.1",
+]
