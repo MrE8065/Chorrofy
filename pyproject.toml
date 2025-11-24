@@ -1,7 +1,7 @@
 [project]
 name = "chorrofy"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple mobile app to listen to music"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
